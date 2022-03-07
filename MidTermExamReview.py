@@ -1,0 +1,1 @@
+print("Hello my name is Mr. Lange.  I teach at Gull Lake High School.")
